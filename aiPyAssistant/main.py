@@ -12,7 +12,7 @@ with sr.Microphone(0) as source:
         pass
     except sr.RequestError:
         pass
-ai.configure(api_key="AIzaSyCj1J9baxohYHJ3n_wStq8c8QC8OEeX8HI")
+ai.configure(api_key="YOUR-API-KEY")
 model = ai.GenerativeModel(model_name="gemini-1.5-flash")
 gTTS(model.generate_content(text).text, lang='en', slow=False).save('x.wav')
 os.system('ffplay.exe -nodisp -autoexit x.wav')
