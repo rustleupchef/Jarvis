@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YyqoBM7dGG4aNY+aSQdTNt68bgfBcdqC827wXBXTuLgpI3V4EaHWDjg3dLnsJdS8s1YhA0JqdGU/PaD3ror3PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ravin\\source\\repos\\Jarvis\\Jarvis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ravin\\.nuget\\packages\\system.speech\\7.0.0\\system.speech.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

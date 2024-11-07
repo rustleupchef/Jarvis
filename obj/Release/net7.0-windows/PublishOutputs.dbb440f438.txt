@@ -1,0 +1,7 @@
+C:\Users\ravin\source\repos\Jarvis\bin\Release\net7.0-windows\publish\Jarvis.exe
+C:\Users\ravin\source\repos\Jarvis\bin\Release\net7.0-windows\publish\Jarvis.dll
+C:\Users\ravin\source\repos\Jarvis\bin\Release\net7.0-windows\publish\Jarvis.deps.json
+C:\Users\ravin\source\repos\Jarvis\bin\Release\net7.0-windows\publish\Jarvis.runtimeconfig.json
+C:\Users\ravin\source\repos\Jarvis\bin\Release\net7.0-windows\publish\Jarvis.pdb
+C:\Users\ravin\source\repos\Jarvis\bin\Release\net7.0-windows\publish\System.Speech.dll
+C:\Users\ravin\source\repos\Jarvis\bin\Release\net7.0-windows\publish\runtimes\win\lib\net7.0\System.Speech.dll
