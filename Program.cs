@@ -70,8 +70,8 @@ namespace Jarvis
 							return;
 						}
 					}
-			}
 				}
+			}
 		}
 	}
 }
