@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4/SkDmLfJh7vXH9l3hBIx2mBzD4wUwaswlvSsIv16Gn90KVt8tPdqbAvjkB5eeQEYLefXW2U2rge9vemqMEOAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ravin\\source\\repos\\Jarvis\\Jarvis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ravin\\.nuget\\packages\\system.speech\\7.0.0\\system.speech.7.0.0.nupkg.sha512",
+    "C:\\Users\\ravin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.0\\microsoft.netcore.app.runtime.win-x86.7.0.0.nupkg.sha512",
+    "C:\\Users\\ravin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.0\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.0.nupkg.sha512",
+    "C:\\Users\\ravin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.0\\microsoft.aspnetcore.app.runtime.win-x86.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
