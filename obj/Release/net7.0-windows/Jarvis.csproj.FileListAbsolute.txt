@@ -41,3 +41,5 @@ C:\Users\ravin\source\repos\Jarvis\bin\Release\net7.0-windows\System.Numerics.Te
 C:\Users\ravin\source\repos\Jarvis\bin\Release\net7.0-windows\System.Text.Encodings.Web.dll
 C:\Users\ravin\source\repos\Jarvis\bin\Release\net7.0-windows\System.Text.Json.dll
 C:\Users\ravin\source\repos\Jarvis\bin\Release\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\ravin\source\repos\Jarvis\obj\Release\net7.0-windows\Jarvis.API.resources
+C:\Users\ravin\source\repos\Jarvis\obj\Release\net7.0-windows\Jarvis.csproj.GenerateResource.cache
